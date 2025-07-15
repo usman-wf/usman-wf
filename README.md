@@ -24,10 +24,11 @@
 <a href="https://expo.dev/" target="_blank">
   <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo" height="50" />
 </a>
-</div>
-<a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="50" />
 </a>
+</div>
+
 <br/>  
 
 
