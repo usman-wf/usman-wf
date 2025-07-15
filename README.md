@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Usman, a  FullStack MERN developer 👨‍💻  🚀</div>  
+### <div align="center">I'm Usman, a  FullStack MERN web developer, I also work with React Native mob development 👨‍💻  🚀</div>  
   
 
 <br/>  
