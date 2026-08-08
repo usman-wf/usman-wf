@@ -52,23 +52,23 @@ developer:
     <td width="100%">
       <h3 align="left">⚡ ContentPilot — AI-Powered Content Automation Pipeline</h3>
       <p align="left">
-        An intelligent, containerized AI automation pipeline that monitors top tech RSS feeds, scores relevance, generates platform-optimized social media posts using <b>OpenAI GPT-4o-mini</b> & <b>AI Agents</b>, and publishes content with human-in-the-loop approvals via Telegram.
+        An intelligent, containerized AI automation engine that monitors top tech RSS feeds, scores relevance, generates platform-optimized social media posts via <b>Google Gemini 2.5 Flash-Lite</b>, and handles human-in-the-loop approvals via <b>Gmail Webhooks & PostgreSQL</b> state management.
       </p>
       <p align="left">
         <b>Key Highlights:</b>
         <ul>
-          <li><b>Automated Feed Ingestion:</b> Polls RSS sources every 6 hours and deduplicates articles dynamically.</li>
-          <li><b>AI Content Generation:</b> Creates platform-tailored post variations for LinkedIn, X (Twitter), and Telegram.</li>
-          <li><b>Human-in-the-Loop Approval:</b> Telegram Bot with interactive inline <code>✅ Approve</code> / <code>❌ Reject</code> buttons.</li>
-          <li><b>Zero-Downtime Infrastructure:</b> Fully containerized with Docker & deployed for cost-effective hosting.</li>
+          <li><b>Gemini 2.5 Flash-Lite AI Generation:</b> Structured JSON output schema forcing for 100% reliable post generation at €0 API cost.</li>
+          <li><b>Gmail Webhook Approvals:</b> Sends interactive HTML approval emails with instant <code>✅ Approve</code> / <code>❌ Reject</code> webhook triggers.</li>
+          <li><b>PostgreSQL State DB:</b> Robust relational state management to prevent race conditions and enforce strict lifecycle statuses (PENDING ➔ PUBLISHED/REJECTED).</li>
+          <li><b>Multi-Platform Publishing:</b> Auto-publishes approved posts directly to Telegram channels and Discord servers.</li>
         </ul>
       </p>
       <p align="left">
-        <img src="https://img.shields.io/badge/AI_Agents-Automation-FF6D00?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Gemini-2.5_Flash--Lite-8E44AD?style=for-the-badge&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-Webhook_Approval-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-State_DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Notion-Database%20Logs-000000?style=for-the-badge&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_%26_Discord-Publishing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
       </p>
       <p align="left">
         <a href="https://github.com/usman-wf/content-pilot"><b>🔗 View Repository & Architecture Docs »</b></a>
@@ -136,6 +136,7 @@ developer:
 
   #### 🤖 AI/ML & AI Agents
   <p>
+    <img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
     <img src="https://img.shields.io/badge/AI%2FML-00D2FF?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML" />
     <img src="https://img.shields.io/badge/AI_Agents-FF6D00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
     <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
