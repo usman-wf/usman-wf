@@ -5,7 +5,7 @@
 
   <!-- Animated Subtitle / Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+MERN+Developer;React+Native+%26+Mobile+Architect;AI+%26+Automation+Engineer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+MERN+Developer;React+Native+%26+Mobile+Architect;AI%2FML+%26+AI+Agents+Engineer;AWS+%26+Cloud+Engineer" alt="Typing SVG" />
   </a>
 
   <br />
@@ -32,16 +32,16 @@
 ```yaml
 developer:
   name: Usman Wasif
-  role: Full-Stack & AI Automation Engineer
-  expertise: [MERN Stack, React Native, AI Agents, n8n, Cloud]
-  current_focus: Building autonomous AI workflows & scalable apps
+  role: Full-Stack, AI & AWS Cloud Engineer
+  expertise: [MERN Stack, React Native, AI/ML & AI Agents, AWS]
+  current_focus: Building autonomous AI agents & scalable cloud architecture
   location: Open to Remote & Global Collaborations
 ```
 
-- 🔭 **Currently Working On**: AI automation pipelines and high-performance cross-platform applications.
-- 🧠 **Exploring & Learning**: Autonomous AI Agent Architectures, LLM Fine-Tuning & Multi-Modal Workflows.
-- 💬 **Ask Me About**: React, React Native, Node.js, n8n workflow design, OpenAI API integrations, and Cloud deployment.
-- ⚡ **Engineering Mindset**: Crafting clean, maintainable code with a strong emphasis on automation, performance, and user experience.
+- 🔭 **Currently Working On**: Autonomous AI agents, full-stack web/mobile applications, and AWS cloud solutions.
+- 🧠 **Exploring & Learning**: AI/ML models, Agentic Architectures, LLM Fine-Tuning & AWS Cloud Native Services.
+- 💬 **Ask Me About**: React, React Native, Node.js, AI/ML, AI Agents, OpenAI API, and AWS Cloud Engineering.
+- ⚡ **Engineering Mindset**: Crafting clean, scalable code with a strong emphasis on modern AI integration, AWS infrastructure, and smooth user experience.
 
 ---
 
@@ -52,7 +52,7 @@ developer:
     <td width="100%">
       <h3 align="left">⚡ ContentPilot — AI-Powered Content Automation Pipeline</h3>
       <p align="left">
-        An intelligent, containerized n8n automation pipeline that monitors top tech RSS feeds, scores relevance, generates platform-optimized social media posts using <b>OpenAI GPT-4o-mini</b>, and publishes content with human-in-the-loop approvals via Telegram.
+        An intelligent, containerized AI automation pipeline that monitors top tech RSS feeds, scores relevance, generates platform-optimized social media posts using <b>OpenAI GPT-4o-mini</b> & <b>AI Agents</b>, and publishes content with human-in-the-loop approvals via Telegram.
       </p>
       <p align="left">
         <b>Key Highlights:</b>
@@ -60,11 +60,11 @@ developer:
           <li><b>Automated Feed Ingestion:</b> Polls RSS sources every 6 hours and deduplicates articles dynamically.</li>
           <li><b>AI Content Generation:</b> Creates platform-tailored post variations for LinkedIn, X (Twitter), and Telegram.</li>
           <li><b>Human-in-the-Loop Approval:</b> Telegram Bot with interactive inline <code>✅ Approve</code> / <code>❌ Reject</code> buttons.</li>
-          <li><b>Zero-Downtime Infrastructure:</b> Fully containerized with Docker & deployed for cost-effective VPS hosting.</li>
+          <li><b>Zero-Downtime Infrastructure:</b> Fully containerized with Docker & deployed for cost-effective hosting.</li>
         </ul>
       </p>
       <p align="left">
-        <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Agents-Automation-FF6D00?style=for-the-badge&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -120,7 +120,6 @@ developer:
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </p>
@@ -135,17 +134,18 @@ developer:
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </p>
 
-  #### 🤖 AI & Automation
+  #### 🤖 AI/ML & AI Agents
   <p>
-    <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+    <img src="https://img.shields.io/badge/AI%2FML-00D2FF?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML" />
+    <img src="https://img.shields.io/badge/AI_Agents-FF6D00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
     <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/AI_Agents-00D2FF?style=for-the-badge&logo=microsoftbing&logoColor=white" alt="AI Agents" />
     <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
   </p>
 
-  #### ☁️ Cloud, DevOps & Tools
+  #### ☁️ AWS & Cloud Engineering
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+    <img src="https://img.shields.io/badge/Cloud_Engineer-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Engineer" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -163,17 +163,17 @@ developer:
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=usman-wf&show_icons=true&theme=dark&hide_border=false&border_color=00d2ff&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&icon_color=00d2ff" alt="Usman's GitHub Stats" height="170" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usman-wf&theme=2077" alt="Usman's GitHub Stats" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-wf&layout=compact&theme=dark&hide_border=false&border_color=00d2ff&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" height="170" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usman-wf&theme=2077" alt="Top Languages" height="180" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman-wf&theme=dark&background=0D1117&border=00D2FF&stroke=00D2FF&alarm=00D2FF&fire=00D2FF&ring=00D2FF" alt="GitHub Streak" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usman-wf&theme=react-dark&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff" alt="GitHub Activity Graph" width="95%" />
 
 </div>
 
