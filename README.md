@@ -45,71 +45,6 @@ developer:
 
 ---
 
-### 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3 align="left">⚡ ContentPilot — AI-Powered Content Automation Pipeline</h3>
-      <p align="left">
-        An intelligent, containerized AI automation engine that monitors top tech RSS feeds, scores relevance, generates platform-optimized social media posts via <b>Google Gemini 2.5 Flash-Lite</b>, and handles human-in-the-loop approvals via <b>Gmail Webhooks & PostgreSQL</b> state management.
-      </p>
-      <p align="left">
-        <b>Key Highlights:</b>
-        <ul>
-          <li><b>Gemini 2.5 Flash-Lite AI Generation:</b> Structured JSON output schema forcing for 100% reliable post generation at €0 API cost.</li>
-          <li><b>Gmail Webhook Approvals:</b> Sends interactive HTML approval emails with instant <code>✅ Approve</code> / <code>❌ Reject</code> webhook triggers.</li>
-          <li><b>PostgreSQL State DB:</b> Robust relational state management to prevent race conditions and enforce strict lifecycle statuses (PENDING ➔ PUBLISHED/REJECTED).</li>
-          <li><b>Multi-Platform Publishing:</b> Auto-publishes approved posts directly to Telegram channels and Discord servers.</li>
-        </ul>
-      </p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Google_Gemini-2.5_Flash--Lite-8E44AD?style=for-the-badge&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gmail-Webhook_Approval-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-State_DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram_%26_Discord-Publishing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-      </p>
-      <p align="left">
-        <a href="https://github.com/usman-wf/content-pilot"><b>🔗 View Repository & Architecture Docs »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="left">🌐 Full-Stack MERN Web Platform</h4>
-      <p align="left">
-        Modern, responsive web applications engineered with React, Node.js, Express, and MongoDB. Features secure JWT authentication, state management, and seamless RESTful API architecture.
-      </p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="left">📱 Cross-Platform Mobile Applications</h4>
-      <p align="left">
-        High-performance mobile solutions built with React Native and Expo. Focused on smooth 60fps animations, intuitive UX/UI design, native module integration, and offline-first state handling.
-      </p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
@@ -200,3 +135,68 @@ developer:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h3 align="left">⚡ ContentPilot — AI-Powered Content Automation Pipeline</h3>
+      <p align="left">
+        An intelligent, containerized AI automation engine that monitors top tech RSS feeds, scores relevance, generates platform-optimized social media posts via <b>Google Gemini 2.5 Flash-Lite</b>, and handles human-in-the-loop approvals via <b>Gmail Webhooks & PostgreSQL</b> state management.
+      </p>
+      <p align="left">
+        <b>Key Highlights:</b>
+        <ul>
+          <li><b>Gemini 2.5 Flash-Lite AI Generation:</b> Structured JSON output schema forcing for 100% reliable post generation at €0 API cost.</li>
+          <li><b>Gmail Webhook Approvals:</b> Sends interactive HTML approval emails with instant <code>✅ Approve</code> / <code>❌ Reject</code> webhook triggers.</li>
+          <li><b>PostgreSQL State DB:</b> Robust relational state management to prevent race conditions and enforce strict lifecycle statuses (PENDING ➔ PUBLISHED/REJECTED).</li>
+          <li><b>Multi-Platform Publishing:</b> Auto-publishes approved posts directly to Telegram channels and Discord servers.</li>
+        </ul>
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Google_Gemini-2.5_Flash--Lite-8E44AD?style=for-the-badge&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-Webhook_Approval-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-State_DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_%26_Discord-Publishing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/usman-wf/content-pilot"><b>🔗 View Repository & Architecture Docs »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">🌐 Full-Stack MERN Web Platform</h4>
+      <p align="left">
+        Modern, responsive web applications engineered with React, Node.js, Express, and MongoDB. Features secure JWT authentication, state management, and seamless RESTful API architecture.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">📱 Cross-Platform Mobile Applications</h4>
+      <p align="left">
+        High-performance mobile solutions built with React Native and Expo. Focused on smooth 60fps animations, intuitive UX/UI design, native module integration, and offline-first state handling.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
