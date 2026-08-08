@@ -5,7 +5,7 @@
 
   <!-- Animated Subtitle / Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+MERN+Developer;React+Native+%26+Mobile+Architect;AI%2FML+%26+AI+Agents+Engineer;AWS+%26+Cloud+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+MERN+Architect;AI%2FML+%26+AI+Agents+Engineer;AWS+%26+Cloud+Engineer" alt="Typing SVG" />
   </a>
 
   <br />
@@ -32,7 +32,8 @@
 ```yaml
 developer:
   name: Usman Wasif
-  role: Full-Stack, AI & AWS Cloud Engineer
+  role: Software Engineer
+  specialization: Full-Stack, AI & AWS Cloud Engineering
   expertise: [MERN Stack, React Native, AI/ML & AI Agents, AWS]
   current_focus: Building autonomous AI agents & scalable cloud architecture
   location: Open to Remote & Global Collaborations
