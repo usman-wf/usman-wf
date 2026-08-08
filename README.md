@@ -75,7 +75,6 @@ developer:
     <img src="https://img.shields.io/badge/AI%2FML-00D2FF?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML" />
     <img src="https://img.shields.io/badge/AI_Agents-FF6D00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
     <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
   </p>
 
   #### ☁️ AWS & Cloud Engineering
